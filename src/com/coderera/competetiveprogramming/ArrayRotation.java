@@ -5,6 +5,8 @@ public class ArrayRotation {
 		int[] a= {1,2,3,4,5,6,};
 		for(int aa:a) {
 			System.out.println(aa);
+			System.out.println("pkp");
+		;
 		}
 	}
 }
