@@ -6,7 +6,14 @@ public class ArrayRotation {
 		for(int aa:a) {
 			System.out.println(aa);
 			System.out.println("pkp");
-		;
+		
 		}
+	}
+	public static int[] rotateArray(int[] a,int x) {
+		for(int aa:a) {
+			System.out.println(aa);
+			System.out.println("pkp");
+			}
+		return a;
 	}
 }
